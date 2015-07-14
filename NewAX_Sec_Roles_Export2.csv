@@ -1,0 +1,153 @@
+SuperGroup,Name,AOTName,ID,Description
+Accounts,Accountant,LedgerAccountant,ADAXG001,Documents accounting events and responds to accounting inquiries
+Accounts,Accounting manager,LedgerAccountingManager,ADAXG002,"Reviews accounting, customer invoice, supplier invoice, and payment process performance and enables those processes"
+Accounts,Accounting supervisor,LedgerAccountingSupervisor,ADAXG003,Reviews accounting process performance and enables the accounting process
+,Applicant anonymous (external),AnonymousApplicant,ADAXG004,External user application for employment
+,Budget clerk,BudgetBudgetClerk,ADAXG005,Documents budget events and responds to budget inquiries
+,Budget manager,BudgetBudgetManager,ADAXG006,Reviews budget process performance and enables the budget process
+,BusinessConnector Role,SysBusinessConnectorRole,ADAXG007,Role Used to Decide if user can logon to Business Connector or not
+Purchase,Buying agent,TradeBuyingAgent,ADAXG008,Documents purchase events and responds to purchase inquiries
+Directors,Chief executive officer,CompanyChiefExecutiveOfficer,ADAXG009,Reviews the financial and operational performance
+Directors,Chief financial officer,CompanyChiefFinancialOfficer,ADAXG010,Reviews the financial performance
+Warehouse,Collections agent,CollectionLetterCollectionsAgent,ADAXG011,Documents collections events and responds to collections inquiries
+Warehouse,Collections manager,CollectionLetterCollectionsManager,ADAXG012,Reviews collections process performance and enables the collections process
+,Compensation and benefits manager,HcmCompensationAndBenefitsManager,ADAXG013,"Documents compensation and benefit events, responds to compensation and benefit inquiries and records the financial consequences of compensation and benefit events"
+,Compliance manager,ComplianceMgmtComplianceManager,ADAXG014,Reviews compliance process performance and enables the compliance process
+,Connector administrator role,ConnectorAdministrator,ADAXG015,Maintains access to connector APIs
+,Contractor,HcmContractor,ADAXG016,Worker in contractor relationship with legal entities
+Accounts,Cost accountant,InventCostAccountant,ADAXG017,"Documents and responds to costs, stock valuations, and cost accounting events and inquiries"
+Accounts,Cost clerk,InventCostCostClerk,ADAXG018,"Authorises and maintains costs, stock valuations, and cost accounting calculations; responds to costs, stock valuations, and cost accounting inquiries"
+,Customer (external),TradeCustomer,ADAXG019,Buys products from legal entities
+,Customer anonymous (external),AnonymousCustomer,ADAXG020,Browse products published in sales catalogue on customer portal
+,Customer self-service administrator (external),TradeCustomerAdmin,ADAXG021,External user in customer relation role with legal entities maintaining external party access and information
+AfterSales,Customer service manager,TradeCustomerServiceManager,ADAXG022,Reviews customer service process performance and enables the customer service process
+AfterSales,Customer service representative,TradeCustomerServiceRepresentative,ADAXG023,Documents customer service events and responds to customer service inquiries
+,Data import export framework administrator,DMFAdministrator,ADAXG024,Administrator for data import/export framework
+Purchase,Demand forecast budget clerk,DemandForecastBudgetClerkASL,ADAXG025,Person who maintains the budgetvalues
+Purchase,Demand forecast budget manager,DemandForecastBudgetManagerASL,ADAXG026,Person who creates and maintains budget values
+Purchase,Demand forecast budget reviewer,DemandForecastBudgetViewASL,ADAXG027,Person who can view budget details
+Purchase,Demand forecast production planner,DemandForecastProdPlannerASL,ADAXG028,Person who can maintain and process the forecast
+Purchase,Demand forecast reviewer,DemandForecastViewASL,ADAXG029,Person who can view the forecast
+Purchase,Demand forecast trade sales manager,DemandForecastTradeSalesManagerASL,ADAXG030,Person who can maintain and process the forecast
+Purchase,Demand forecast trade sales representative,DemandForecastTradeSalesRepASL,ADAXG031,Person who can maintain the forecast
+Purchase,Demand Forecasting Setup,DemandForecastingSetupASL,ADAXG032,Person who setup the demand forecasting
+Service,Dispatcher,SMADispatcher,ADAXG033,Organises the service technicians and prioritises service orders
+,Employee,HCMEmployee,ADAXG034,Worker in employment relationship with legal entities
+,Environmental clerk,EMSEnvironmentalClerk,ADAXG035,Documents environmental sustainability events
+,Environmental manager,EMSEnvironmentalManager,ADAXG036,Enables and reviews the environmental process
+Service,Field service technician,SMAFieldServiceTechnician,ADAXG037,Visits customers in the field to perform service orders
+Accounts,Financial controller,LedgerFinancialController,ADAXG038,Reviews all accounting process performance and enables those processes
+,FMLA administrator,HcmFMLAAdministrator,ADAXG039,Set up FMLA policies and work with FMLA cases
+,GPS absence module scheduler,GPSModuleAbsenceScheduler,ADAXG040,GPS absence module scheduler user
+,GPS absence module viewer,GPSModuleAbsenceViewer,ADAXG041,GPSabsence module read only viewer user
+,GPS absence power user,GPSAbsencePowerUser,ADAXG042,Absence user with ability of basic setup
+,GPS absence user,GPSAbsenceUser,ADAXG043,User that can enter absence hour transactions
+,GPS administrator,GPSCoreAdmin,ADAXG044,GPS administrator with all GPS functions
+,GPS module service schedule access,GPSModuleServiceScheduler,ADAXG045,GPS service module scheduler access
+,GPS planned orders module scheduler,GPSModuleReqPOScheduler,ADAXG046,GPS planned orders module scheduler user
+,GPS planned orders module viewer,GPSModuleReqPOViewer,ADAXG047,GPS planned orders module read-only viewer user
+,GPS power user,GPSCorePowerUser,ADAXG048,GPS user that can use simple setup processes
+,GPS production module forms user,GPSProductionModuleUser,ADAXG049,GPS production module forms and tables user
+,GPS production module scheduler,GPSModuleProductionScheduler,ADAXG050,GPS production module scheduler user
+,GPS production module viewer,GPSModuleProductionViewer,ADAXG051,GPS production module read-only viewer user
+,GPS project module forms user,GPSProjModuleUser,ADAXG052,GPS project module forms and tables user
+,GPS project module scheduler,GPSModuleProjectScheduler,ADAXG053,GPS project module scheduler user
+,GPS project module viewer,GPSModuleProjectViewer,ADAXG054,GPS project module read-only viewer user
+,GPS service module view-only,GPSModuleServiceViewer,ADAXG055,GPS service module view-only access
+,GPS user,GPSCoreUser,ADAXG056,User that can use scheduling screen and absence module
+,Guest,Guest,ADAXG057,Guest
+,Helpdesk clerk (Maintenance),MSM_HelpdeskClerk_M,ADAXG058,The helpdesk clerk creates and maintains service calls
+,Helpdesk clerk (Service),MSM_HelpdeskClerk_S,ADAXG059,The helpdesk clerk creates and maintains service calls
+,Helpdesk clerk (Service Maintenance),MSM_HelpdeskClerk,ADAXG060,The helpdesk clerk creates and maintains service calls
+HR,Human resource assistant,HcmHumanResourceAssistant,ADAXG061,Documents human resource events and responds to human resource inquiries
+HR,Human resource manager,HcmHumanResourceManager,ADAXG062,Periodically reviews human resource process performance and enables the human resource process
+ ,Information technology manager,SysServerITManager,ADAXG063,"Maintains servers and software for Microsoft Dynamics AX. Maintains and configures settings for batch servers, load balancing, databases, Enterprise Portal, Services, and Workflow"
+Warehouse,Logistics manager,TMSLogisticsManager,ADAXG064,"Set up, maintain, and configure the network planning  that are used in transportation management processes"
+,Machine operator,JmgMachineOperator,ADAXG065,Works on works orders and makes registrations in Manufacturing execution
+,Maintenance management dispatching,MSM_ServiceDispatch_M,ADAXG066,Reviews service calls and routes them to others for operational execution
+,Maintenance manager,MSM_ServiceManager_M,ADAXG067,Manages and overview the day to day operations and execution
+,Maintenance technician,MSM_Technician_M,ADAXG068,"The service/maintenance technician takes care of the execution of service tasks, and reports back on the status and usage"
+,Manager,HcmManager,ADAXG069,Supervisor in reporting relationship with subordinates
+,Marketing coordinator,CRMMarketingCoordinator,ADAXG070,Produces and distributes marketing materials
+,Marketing manager,CRMMarketingManager,ADAXG071,Manages product marketing
+Product,Master data management,Mdm,ADAXG072,Master data management
+Product,Materials manager,InventMaterialsManager,ADAXG073,"Enables and reviews processes, maintains master data, and responds to inquiries within logistics and material management"
+,Mobile Field Service administrator,fsiAdmin,ADAXG074,
+,Mobile Field Service user,fsiUser,ADAXG075,
+,Payroll administrator,HcmPayrollAdministrator,ADAXG076,"Documents payroll events, responds to payroll inquiries and records the financial consequences of payroll events"
+,Payroll manager,HcmPayrollManager,ADAXG077,Authorises activity in the payroll process
+Product,Process engineer,RouteProcessEngineer,ADAXG078,Defines processes to make new products
+Product,Process engineering manager,RouteProcessEngineeringManager,ADAXG079,"Reviews new products, materials, and processes"
+Product,Product design manager,BOMProductDesignManager,ADAXG080,Reviews the product BOM structures
+Product,Product designer,BOMProductDesigner,ADAXG081,Designs new and modifies existing BOM structures
+,Production manager,ProdProductionManager,ADAXG082,Reviews the production plan and ensures the proper resources are available
+,Production planner,ReqProductionPlanner,ADAXG083,Schedules and plans  productions
+,Production supervisor,ProdProductionSupervisor,ADAXG084,Enables the production process
+,Project accountant,ProjProjectAccountant,ADAXG085,Maintains project accounting policies
+Service,Project assistant,ProjProjectClerk,ADAXG086,Documents project accounting process events and responds to project accounting process inquiries
+,Project manager,ProjProjectManager,ADAXG087,Documents the project forecast/budget events and responds to project forecast/budget inquiries. Maintains project accounting master information and responds to project accounting master information inquiries. Authorises project accounting process events
+,Project manager - Public Sector,ProjProjectManager_PSN,ADAXG088,Documents the project forecast/budget events and responds to project forecast/budget inquiries. Maintains project accounting master information and responds to project accounting master information inquiries. Authorises project accounting process events
+Service,Project supervisor,ProjProjectSupervisor,ADAXG089,Enables and reviews the project accounting process
+,Project timesheet user,ProjTimesheetUser,ADAXG090,Enables creation and approval of project timesheets
+Purchase,Purchase ledger centralised payments clerk,PaymAccountsPayableCentralPaymClerk,ADAXG091,Documents purchase ledger centralised payment events and responds to centralised payment inquiries
+Purchase,Purchase ledger clerk,VendInvoiceAccountsPayableClerk,ADAXG092,Documents supplier invoice events and responds to supplier inquiries
+Purchase,Purchase ledger manager,VendInvoiceAccountsPayableManager,ADAXG093,Reviews supplier invoice process performance and enables the supplier invoice process
+Purchase,Purchase ledger payments clerk,PaymAccountsPayablePaymentsClerk,ADAXG094,Documents purchase ledger payment events and responds to payment inquiries
+Purchase,Purchase ledger positive payment clerk,PaymPositivePaymentClerk,ADAXG095,Document purchase ledger positive pay events
+Purchase,Purchasing agent,VendPurchasingAgent,ADAXG096,Documents purchasing events and responds to purchasing inquiries
+Purchase,Purchasing Agent - Public Sector,VendPurchasingAgent_PSN,ADAXG097,Documents purchasing events and responds to purchasing inquiries
+Purchase,Purchasing manager,TradePurchasingManager,ADAXG098,Reviews purchasing process performance and enables the purchasing process
+Warehouse,Quality control clerk,InventQualityControlClerk,ADAXG099,Documents quality control events and responds to quality control inquiries
+Warehouse,Quality control manager,InventQualityControlManager,ADAXG100,"Enables and reviews processes, maintains master data, and responds to inquiries within quality control"
+Accounts,Receiving clerk,InventReceivingClerk,ADAXG101,Documents receiving operation events and responds to warehouse receiving operation inquiries
+,Recruiter,HcmRecruiter,ADAXG102,"Documents recruiting events, responds to recruiting inquiries and records the financial consequences of recruiting events"
+,Repair desk clerk (Maintenance),MSM_RepairdeskClerk_M,ADAXG103,The repairdesk clerk creates and maintains repair calls
+,Repair desk clerk (Service),MSM_RepairdeskClerk_S,ADAXG104,The repairdesk clerk creates and maintains repair calls
+,Repair desk clerk (Service Maintenance),MSM_RepairdeskClerk,ADAXG105,The repairdesk clerk creates and maintains repair calls
+,Retail catalogue manager,RetailCatalogManager,ADAXG106,"At the head office, the retail catalogue manager maintains and publishes retail catalogues"
+,Retail merchandising manager,RetailMerchandisingManager,ADAXG107,"At the head office, the retail merchandising manager maintains and replenishes retail products and assortments"
+,Retail operations manager,RetailOperationsManager,ADAXG108,"The retail operations manager is responsible for all non-merchandising operations at the head office, such as configuring stores, registers, and staff"
+,Retail store IT,RetailStoreIT,ADAXG109,The retail store IT is responsible for retail store system deployment through Enterprise portal
+,Retail store manager,RetailStoreManager,ADAXG110,"The retail store manager performs store management functions at the store, such as managing sales reports, stock movements, and stock counts"
+,Retail warehouse clerk,RetailWarehouseClerk,ADAXG111,"The retail warehouse clerk performs picking, receiving, and stock counting in a store or warehouse"
+Sales,Sales clerk,TradeSalesClerk,ADAXG112,Documents sales events and responds to sales inquiries
+Accounts,Sales ledger centralised payments clerk,PaymAccountsReceivableCentralPaymClerk,ADAXG113,Documents sales ledger centralised payment events and responds to centralised payment inquiries
+Accounts,Sales ledger clerk,CustInvoiceAccountsReceivableClerk,ADAXG114,Documents customer invoice events and responds to customer inquiries
+Accounts,Sales ledger manager,CustInvoiceAccountsReceivableManager,ADAXG115,Reviews customer invoice process performance and enables the customer invoice process
+Accounts,Sales ledger payments clerk,PaymAccountsReceivablePaymentsClerk,ADAXG116,Documents sales ledger payment events and responds to payment inquiries
+Sales,Sales manager,TradeSalesManager,ADAXG117,Reviews sales process performance and enables the sales process
+Sales,Sales representative,TradeSalesRepresentative,ADAXG118,Documents sales events and responds to sales inquiries
+,Search crawler,SysSearchCrawler,ADAXG119,Defines permissions for the search crawler role
+,Security administrator,SysSecSecurityAdministrator,ADAXG120,"Maintains user and security setup in Microsoft Dynamics AX, grants the ability to create and maintain security roles, duties, and privileges and  the ability to assign users to roles, define role assignment rules, and maintain data security policies"
+,Service contract clerk,MSM_ContractClerk,ADAXG121,The contract clerk maintains contracts and associated object (structure)
+,Service contract manager,MSM_ContractManager,ADAXG122,"Keeps an overview of contract maintenance tasks, performs the more complex scenario's"
+Service,Service delivery manager,SMAServiceDeliveryManager,ADAXG123,Reviews and enables the service order process
+,Service management administrator,MSM_ServiceAdministrator,ADAXG124,"Setup and maintain throughout the module, has access to all artifacts of the module"
+,Service manager,MSM_ServiceManager_S,ADAXG125,Manages and overview the day to day operations and execution
+,Service managment dispatching,MSM_ServiceDispatch_S,ADAXG126,Reviews service calls and routes them to others for operational execution
+,Service technician,MSM_Technician_S,ADAXG127,"The service/maintenance technician takes care of the execution of service tasks, and reports back on the status and usage"
+,Service Maintenance technician,MSM_Technician,ADAXG128,"The service/maintenance technician takes care of the execution of service tasks, and reports back on the status and usage"
+,Service Maintenance management dispatching,MSM_ServiceDispatch,ADAXG129,Reviews service calls and routes them to others for operational execution
+,Service Maintenance manager,MSM_ServiceManager,ADAXG130,Manages and overview the day to day operations and execution
+,Shipping clerk,InventShippingClerk,ADAXG131,Documents shipping operation events and responds to warehouse shipping operation inquiries
+,Shop supervisor,JmgShopSupervisor,ADAXG132,"Ensures the day-to-day execution of orders/jobs so Machine operators know what to work on, who is available and can respond to the main requests from Machine operators"
+,Supplier (external),VendVendor,ADAXG133,External user in supplier relation role with legal entities
+,Supplier (external) - Public sector,VendVendor_PSN,ADAXG134,External user in supplier relation role with legal entities
+Purchase,Supplier account manager,VendVendorAccountManager,ADAXG135,Documents supplier events and responds to supplier inquiries
+,Supplier anonymous (external),VendVendorAnonymous,ADAXG136,External user access to unsolicited supplier master self service
+,Supplier portal administrator (external),VendVendorPortalAdministrator,ADAXG137,External user in supplier relation role with legal entities maintaining external party access and information
+,Supplier portal administrator (external) Public sector,VendVendorPortalAdministrator_PSN,ADAXG138,External user in supplier relation role with legal entities maintaining external party access and information
+,Supplier prospect (external),VendVendorProspect,ADAXG139,External user in progress of obtaining supplier relation role with legal entities
+,System administrator,-SYSADMIN-,ADAXG140,"Maintains the Microsoft Dynamics AX system, has access to all artifacts in the system, and  cannot be modified"
+,System user,SystemUser,ADAXG141,System role for all users
+Accounts,Tax accountant,FBTaxAccountant_BR,ADAXG142,Documents financial events and responds to financial inquires
+,Time registration worker,JmgAdvTimeWorker,ADAXG143,Worker enabled to use advanced features for time registration
+,Training manager,HcmTrainingManager,ADAXG144,"Documents training events, responds to training inquiries and records the financial consequences of training events"
+,Transportation coordinator,TMSTransportationCoordinator,ADAXG145,"Enables inbound , outbound, rating, routing, and handling of transportation process"
+Accounts,Treasurer,PaymTreasurer,ADAXG146,Documents treasury events and responds to treasury inquiries
+Warehouse,Warehouse manager,WMSWarehouseManager,ADAXG147,"Enables and reviews processes, authorises recordings, maintains master data, and responds to inquiries within warehouse management"
+,Warehouse mobile device user,WHSMobileDeviceService,ADAXG148,Used to access the Warehouse Mobile Device Portal service
+Warehouse,Warehouse planner,WHSWarehousePlanner,ADAXG149,Warehouse planner
+Warehouse,Warehouse worker,WMSWarehouseWorker,ADAXG150,Documents warehouse operation events and responds to warehouse operation inquiries
+Warehouse,Waterspider,LeanWaterspider,ADAXG151,Responds to stock needs on the production line
+,Work preparation,MSM_ServiceWorkPrep,ADAXG152,"Reviews and estimates jobs, prepares purchases, all in preparation for execution"
